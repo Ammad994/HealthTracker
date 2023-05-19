@@ -1,7 +1,7 @@
 <h1>Health Tracker Application</h1>
 This Health Tracker application, developed using Kotlin, is designed to help users monitor their health and achieve their fitness goals. It provides several features, including heart rate monitoring, step counting, health coaching, and exercise goals.
 
-Installation
+<h2>Installation</h2>
 To install and run the Health Tracker application, follow these steps:
 
 Clone the repository from GitHub:
@@ -15,11 +15,11 @@ Connect your Android device to your computer using a USB cable, or use an emulat
 
 Run the application on the device or emulator using the IDE's run command.
 
-Features
+<h2>Features</h2>
 Heart Rate Monitoring
 The Health Tracker application allows users to monitor their heart rate using the built-in heart rate sensor on their Android device. The heart rate data is displayed in real-time and can be used to track changes during physical activities or at rest.
 
-Step Counter
+<h2>Step Counter</h2>
 The step counter feature enables users to keep track of the number of steps they take throughout the day. This functionality utilizes the device's built-in step sensor or accelerometer to accurately count steps. Users can view their daily step count and monitor their progress towards achieving their step goals.
 
 Health Coaching
