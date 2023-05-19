@@ -1,4 +1,4 @@
-#Health Tracker Application
+##Health Tracker Application
 This Health Tracker application, developed using Kotlin, is designed to help users monitor their health and achieve their fitness goals. It provides several features, including heart rate monitoring, step counting, health coaching, and exercise goals.
 
 #Installation
